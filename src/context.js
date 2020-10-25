@@ -1,7 +1,7 @@
 import React from 'react'
 import {person} from "./mockPerson"
 import axios from 'axios';
-const url = "http://localhost:1337/people"
+const url = "https://react-demonslayer-api.herokuapp.com/people"
 
 
 export const AppContext = React.createContext()

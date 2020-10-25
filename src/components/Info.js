@@ -15,7 +15,7 @@ export default function Info() {
     if(error){
         return(<div className="grid place-items-center h-screen">
         <h1 className="text-blue-700 text-2xl font-mono font-bold mt-4 mb-6">
-        No Character founded! Please try other Characters
+        No Number founded! Please try other Numbers
         </h1>
             
         </div>)
